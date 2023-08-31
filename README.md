@@ -8,7 +8,7 @@ This script demonstrates how a brute-force attack can be performed against the l
 python main.py --url [DVWA URL] --usernamelist [USERLIST PATH] --passwordlist [PASSLIST PATH] --output [OUTPUT FILE PATH]
 ```
 
-###Arguments:
+### Arguments:
 
 1. `--url / -u`: The base URL of DVWA (e.g., `http://localhost/DVWA/login.php`).
 2. `--usernamelist / -ul`: Path to the file containing usernames to be tested.
